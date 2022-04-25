@@ -27,7 +27,7 @@ function getResults() {
   }
 }
 
-alert(`Odd Result : ${evenResult}
-Even Result : ${oddResult}
+alert(`Odd Result : ${oddResult}
+Even Result : ${evenResult}
 interval : ${interval}
 Out Put : ${arrayNumber.join(",")}`);
