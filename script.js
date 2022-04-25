@@ -1,8 +1,8 @@
-let arrayNumber = [],
-  evenResult = 1,
-  oddResult = 0,
-  number,
-  interval;
+let arrayNumber = [];
+let evenResult = 1;
+let oddResult = 0;
+let number;
+let interval;
 
 function getValues() {
   for (let i = 0; i < 4; i++) {
